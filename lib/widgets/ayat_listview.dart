@@ -1,5 +1,5 @@
 import 'package:audioplayers/audioplayers.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 import 'package:quran_app/model/ayah_model.dart';
 import 'package:quran_app/widgets/ayat_item.dart';
 
@@ -37,3 +37,4 @@ class AyatListView extends StatelessWidget {
     );
   }
 }
+
